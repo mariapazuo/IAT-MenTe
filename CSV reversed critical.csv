@@ -1,0 +1,117 @@
+stimuli,category,correct_response,columna izquierda,columna derecha,grupo,stimuli_color
+Niña,Femenino,e,Ciencias Exactas Femenino,Ciencias Sociales Masculino,0,#008000
+Femenino,Femenino,e,Ciencias Exactas,Ciencias Sociales,0,#008000
+Tía,Femenino,e,Ciencias Exactas,Ciencias Sociales,0,#008000
+Hija,Femenino,e,Ciencias Exactas,Ciencias Sociales,0,#008000
+Esposa,Femenino,e,Ciencias Exactas,Ciencias Sociales,0,#008000
+Mujer,Femenino,e,Ciencias Exactas,Ciencias Sociales,0,#008000
+Madre,Femenino,e,Ciencias Exactas,Ciencias Sociales,0,#008000
+Abuela,Femenino,e,Ciencias Exactas,Ciencias Sociales,0,#008000
+Hombre,Masculino,i,Ciencias Exactas,Ciencias Sociales,0,#008000
+Niño,Masculino,i,Ciencias Exactas,Ciencias Sociales,0,#008000
+Padre,Masculino,i,Ciencias Exactas,Ciencias Sociales,0,#008000
+Masculino,Masculino,i,Ciencias Exactas,Ciencias Sociales,0,#008000
+Abuelo,Masculino,i,Ciencias Exactas,Ciencias Sociales,0,#008000
+Esposo,Masculino,i,Ciencias Exactas Femenino,Ciencias Sociales Masculino,0,#008000
+Hijo,Masculino,i,Ciencias Exactas,Ciencias Sociales ,0,#008000
+Tío,Masculino,i,Ciencias Exactas,Ciencias Sociales,0,#008000
+Filosofía,Ciencias Sociales,i,Ciencias Exactas,Ciencias Sociales,0,#FFFFFF
+Educación,Ciencias Sociales,i,Ciencias Exactas,Ciencias Sociales,0,#FFFFFF
+Arte,Ciencias Sociales,i,Ciencias Exactas,Ciencias Sociales,0,#FFFFFF
+Literatura,Ciencias Sociales,i,Ciencias Exactas,Ciencias Sociales,0,#FFFFFF
+Trabajo Social,Ciencias Sociales,i,Ciencias Exactas,Ciencias Sociales,0,#FFFFFF
+Historia,Ciencias Sociales,i,Ciencias Exactas,Ciencias Sociales,0,#FFFFFF
+Biología,Ciencias Exactas,e,Ciencias Exactas,Ciencias Sociales,0,#FFFFFF
+Física,Ciencias Exactas,e,Ciencias Exactas,Ciencias Sociales,0,#FFFFFF
+Química,Ciencias Exactas,e,Ciencias Exactas,Ciencias Sociales,0,#FFFFFF
+Matemáticas,Ciencias Exactas,e,Ciencias Exactas,Ciencias Sociales,0,#FFFFFF
+Geología,Ciencias Exactas,e,Ciencias Exactas,Ciencias Sociales,0,#FFFFFF
+Astronomía,Ciencias Exactas,e,Ciencias Exactas,Ciencias Sociales,0,#FFFFFF
+Ingeniería,Ciencias Exactas,e,Ciencias Exactas,Ciencias Sociales,0,#FFFFFF
+Niña,Femenino,e,Ciencias Sociales - Femenino,Ciencias Exactas - Masculino,1,#008000
+Femenino,Femenino,e,Ciencias Sociales ,Ciencias Exactas,1,#008000
+Tía,Femenino,e,Ciencias Sociales,Ciencias Exactas,1,#008000
+Hija,Femenino,e,Ciencias Sociales,Ciencias Exactas,1,#008000
+Esposa,Femenino,e,Ciencias Sociales,Ciencias Exactas,1,#008000
+Mujer,Femenino,e,Ciencias Sociales,Ciencias Exactas,1,#008000
+Madre,Femenino,e,Ciencias Sociales,Ciencias Exactas,1,#008000
+Abuela,Femenino,e,Ciencias Sociales,Ciencias Exactas,1,#008000
+Hombre,Masculino,i,Ciencias Sociales,Ciencias Exactas,1,#008000
+Niño,Masculino,i,Ciencias Sociales,Ciencias Exactas,1,#008000
+Padre,Masculino,i,Ciencias Sociales,Ciencias Exactas,1,#008000
+Masculino,Masculino,i,Ciencias Sociales,Ciencias Exactas,1,#008000
+Abuelo,Masculino,i,Ciencias Sociales,Ciencias Exactas,1,#008000
+Esposo,Masculino,i,Ciencias Sociales,Ciencias Exactas,1,#008000
+Hijo,Masculino,i,Ciencias Sociales,Ciencias Exactas,1,#008000
+Tío,Masculino,i,Ciencias Sociales ,Ciencias Exactas,1,#008000
+Filosofía,Ciencias Sociales,e,Ciencias Sociales,Ciencias Exactas,1,#FFFFFF
+Educación,Ciencias Sociales,e,Ciencias Sociales,Ciencias Exactas,1,#FFFFFF
+Arte,Ciencias Sociales,e,Ciencias Sociales,Ciencias Exactas,1,#FFFFFF
+Literatura,Ciencias Sociales,e,Ciencias Sociales,Ciencias Exactas,1,#FFFFFF
+Trabajo Social,Ciencias Sociales,e,Ciencias Sociales,Ciencias Exactas,1,#FFFFFF
+Historia,Ciencias Sociales,e,Ciencias Sociales,Ciencias Exactas,1,#FFFFFF
+Biología,Ciencias Exactas,i,Ciencias Sociales,Ciencias Exactas,1,#FFFFFF
+Física,Ciencias Exactas,i,Ciencias Sociales,Ciencias Exactas,1,#FFFFFF
+Química,Ciencias Exactas,i,Ciencias Sociales,Ciencias Exactas,1,#FFFFFF
+Matemáticas,Ciencias Exactas,i,Ciencias Sociales,Ciencias Exactas,1,#FFFFFF
+Geología,Ciencias Exactas,i,Ciencias Sociales,Ciencias Exactas,1,#FFFFFF
+Astronomía,Ciencias Exactas,i,Ciencias Sociales,Ciencias Exactas,1,#FFFFFF
+Ingeniería,Ciencias Exactas,i,Ciencias Sociales,Ciencias Exactas,1,#FFFFFF
+Niña,Femenino,i,Ciencias Exactas - Masculino,Ciencias Sociales - Femenino,2,#008000
+Femenino,Femenino,i,Ciencias Exactas,Ciencias Sociales,2,#008000
+Tía,Femenino,i,Ciencias Exactas,Ciencias Sociales,2,#008000
+Hija,Femenino,i,Ciencias Exactas,Ciencias Sociales,2,#008000
+Esposa,Femenino,i,Ciencias Exactas,Ciencias Sociales,2,#008000
+Mujer,Femenino,i,Ciencias Exactas,Ciencias Sociales ,2,#008000
+Madre,Femenino,i,Ciencias Exactas,Ciencias Sociales,2,#008000
+Abuela,Femenino,i,Ciencias Exactas,Ciencias Sociales,2,#008000
+Hombre,Masculino,e,Ciencias Exactas,Ciencias Sociales,2,#008000
+Niño,Masculino,e,Ciencias Exactas,Ciencias Sociales,2,#008000
+Padre,Masculino,e,Ciencias Exactas,Ciencias Sociales,2,#008000
+Masculino,Masculino,e,Ciencias Exactas,Ciencias Sociales,2,#008000
+Abuelo,Masculino,e,Ciencias Exactas,Ciencias Sociales,2,#008000
+Esposo,Masculino,e,Ciencias Exactas,Ciencias Sociales,2,#008000
+Hijo,Masculino,e,Ciencias Exactas,Ciencias Sociales ,2,#008000
+Tío,Masculino,e,Ciencias Exactas,Ciencias Sociales,2,#008000
+Filosofía,Ciencias Sociales,i,Ciencias Exactas,Ciencias Sociales,2,#FFFFFF
+Educación,Ciencias Sociales,i,Ciencias Exactas,Ciencias Sociales,2,#FFFFFF
+Arte,Ciencias Sociales,i,Ciencias Exactas,Ciencias Sociales,2,#FFFFFF
+Literatura,Ciencias Sociales,i,Ciencias Exactas,Ciencias Sociales,2,#FFFFFF
+Trabajo Social,Ciencias Sociales,i,Ciencias Exactas,Ciencias Sociales,2,#FFFFFF
+Historia,Ciencias Sociales,i,Ciencias Exactas,Ciencias Sociales,2,#FFFFFF
+Biología,Ciencias Exactas,e,Ciencias Exactas,Ciencias Sociales,2,#FFFFFF
+Física,Ciencias Exactas,e,Ciencias Exactas,Ciencias Sociales,2,#FFFFFF
+Química,Ciencias Exactas,e,Ciencias Exactas,Ciencias Sociales,2,#FFFFFF
+Matemáticas,Ciencias Exactas,e,Ciencias Exactas,Ciencias Sociales,2,#FFFFFF
+Geología,Ciencias Exactas,e,Ciencias Exactas,Ciencias Sociales,2,#FFFFFF
+Astronomía,Ciencias Exactas,e,Ciencias Exactas,Ciencias Sociales,2,#FFFFFF
+Ingeniería,Ciencias Exactas,e,Ciencias Exactas,Ciencias Sociales,2,#FFFFFF
+Niña,Femenino,i,Ciencias Sociales - Masculino,Ciencias Exactas - Femenino,3,#008000
+Femenino,Femenino,i,Ciencias Sociales,Ciencias Exactas,3,#008000
+Tía,Femenino,i,Ciencias Sociales,Ciencias Exactas,3,#008000
+Hija,Femenino,i,Ciencias Sociales,Ciencias Exactas,3,#008000
+Esposa,Femenino,i,Ciencias Sociales,Ciencias Exactas,3,#008000
+Mujer,Femenino,i,Ciencias Sociales ,Ciencias Exactas,3,#008000
+Madre,Femenino,i,Ciencias Sociales,Ciencias Exactas,3,#008000
+Abuela,Femenino,i,Ciencias Sociales,Ciencias Exactas,3,#008000
+Hombre,Masculino,e,Ciencias Sociales,Ciencias Exactas,3,#008000
+Niño,Masculino,e,Ciencias Sociales,Ciencias Exactas,3,#008000
+Padre,Masculino,e,Ciencias Sociales,Ciencias Exactas,3,#008000
+Masculino,Masculino,e,Ciencias Sociales,Ciencias Exactas,3,#008000
+Abuelo,Masculino,e,Ciencias Sociales,Ciencias Exactas,3,#008000
+Esposo,Masculino,e,Ciencias Sociales,Ciencias Exactas,3,#008000
+Hijo,Masculino,e,Ciencias Sociales,Ciencias Exactas,3,#008000
+Tío,Masculino,e,Ciencias Sociales,Ciencias Exactas,3,#008000
+Filosofía,Ciencias Sociales,e,Ciencias Sociales,Ciencias Exactas,3,#FFFFFF
+Educación,Ciencias Sociales,e,Ciencias Sociales,Ciencias Exactas,3,#FFFFFF
+Arte,Ciencias Sociales,e,Ciencias Sociales,Ciencias Exactas,3,#FFFFFF
+Literatura,Ciencias Sociales,e,Ciencias Sociales,Ciencias Exactas,3,#FFFFFF
+Trabajo Social,Ciencias Sociales,e,Ciencias Sociales,Ciencias Exactas,3,#FFFFFF
+Historia,Ciencias Sociales,e,Ciencias Sociales,Ciencias Exactas,3,#FFFFFF
+Biología,Ciencias Exactas,i,Ciencias Sociales,Ciencias Exactas,3,#FFFFFF
+Física,Ciencias Exactas,i,Ciencias Sociales,Ciencias Exactas,3,#FFFFFF
+Química,Ciencias Exactas,i,Ciencias Sociales ,Ciencias Exactas,3,#FFFFFF
+Matemáticas,Ciencias Exactas,i,Ciencias Sociales,Ciencias Exactas,3,#FFFFFF
+Geología,Ciencias Exactas,i,Ciencias Sociales,Ciencias Exactas,3,#FFFFFF
+Astronomía,Ciencias Exactas,i,Ciencias Sociales,Ciencias Exactas,3,#FFFFFF
+Ingeniería,Ciencias Exactas,i,Ciencias Sociales,Ciencias Exactas,3,#FFFFFF
